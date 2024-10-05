@@ -1,0 +1,12 @@
+streamlit
+pandas
+tensorflow
+torch
+transformers
+scikit-learn
+nltk
+pillow
+matplotlib
+faiss-cpu
+tf-keras
+sentence-transformers

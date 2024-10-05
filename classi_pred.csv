@@ -1,0 +1,10 @@
+﻿Age,Gender,Tumor Type,Tumor Grade,Tumor Location,Treatment,Time to Recurrence (months),Recurrence Site,Survival Time (months)
+45,Male,Glioblastoma,IV,Frontal lobe,Surgery,10,Temporal lobe,18
+55,Female,Meningioma,I,Parietal lobe,Surgery,NA,NA,36
+60,Male,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,14,Frontal lobe,22
+50,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation therapy,NA,NA,12
+65,Male,Astrocytoma,II,Frontal lobe,Surgery + Radiation therapy,24,Frontal lobe,48
+45,Male,Glioblastoma,IV,Frontal lobe,Surgery,10,Temporal lobe,18
+55,Female,Meningioma,I,Parietal lobe,Surgery,NA,NA,36
+60,Male,Astrocytoma,III,Occipital lobe,Surgery + Chemotherapy,14,Frontal lobe,22
+50,Female,Glioblastoma,IV,Temporal lobe,Surgery + Radiation,NA,NA,12
